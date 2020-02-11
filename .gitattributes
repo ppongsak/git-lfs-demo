@@ -1,0 +1,1 @@
+gs-spring-boot-docker-0.1.0.jar filter=lfs diff=lfs merge=lfs -text
